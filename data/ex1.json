@@ -1,0 +1,50 @@
+[
+  {
+    "sch_name": "서울원명초등학교",
+    "sch_kind": "01",
+    "sch_date": "20210524",
+    "start_hhmm": "0850",
+    "end_hhmm": "1230",
+    "neis": true
+  },
+  {
+    "sch_name": "서울원명초등학교",
+    "sch_kind": "01",
+    "sch_date": "20210525",
+    "start_hhmm": "0850",
+    "end_hhmm": "1400",
+    "neis": true
+  },
+  {
+    "sch_name": "서울원명초등학교",
+    "sch_kind": "01",
+    "sch_date": "20210526",
+    "start_hhmm": "0850",
+    "end_hhmm": "1230",
+    "neis": true
+  },
+  {
+    "sch_name": "서울원명초등학교",
+    "sch_kind": "01",
+    "sch_date": "20210527",
+    "start_hhmm": "0850",
+    "end_hhmm": "1400",
+    "neis": true
+  },
+  {
+    "sch_name": "서울원명초등학교",
+    "sch_kind": "01",
+    "sch_date": "20210528",
+    "start_hhmm": "0850",
+    "end_hhmm": "1400",
+    "neis": true
+  },
+  {
+    "sch_name": "서울원명초등학교",
+    "sch_kind": "01",
+    "sch_date": "20210529",
+    "start_hhmm": "0850",
+    "end_hhmm": "1230",
+    "neis": true
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210314",
+    "start_hhmm": "0800",
+    "end_hhmm": "0900",
+    "neis": null
+  },
+  {
+    "sch_name": "아침식사",
+    "sch_kind": "02",
+    "sch_date": "20210314",
+    "start_hhmm": "0900",
+    "end_hhmm": "1000",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210314",
+    "start_hhmm": "1030",
+    "end_hhmm": "1130",
+    "neis": null
+  },
+  {
+    "sch_name": "점심식사",
+    "sch_kind": "02",
+    "sch_date": "20210314",
+    "start_hhmm": "1210",
+    "end_hhmm": "1310",
+    "neis": null
+  },
+  {
+    "sch_name": "가사노동",
+    "sch_kind": "04",
+    "sch_date": "20210314",
+    "start_hhmm": "1400",
+    "end_hhmm": "1600",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210314",
+    "start_hhmm": "1800",
+    "end_hhmm": "1900",
+    "neis": null
+  },
+  {
+    "sch_name": "저녁식사",
+    "sch_kind": "02",
+    "sch_date": "20210314",
+    "start_hhmm": "1900",
+    "end_hhmm": "2000",
+    "neis": null
+  },
+  {
+    "sch_name": "간식준비",
+    "sch_kind": "04",
+    "sch_date": "20210314",
+    "start_hhmm": "2100",
+    "end_hhmm": "2200",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210315",
+    "start_hhmm": "0600",
+    "end_hhmm": "0630",
+    "neis": null
+  },
+  {
+    "sch_name": "식사      등교준비",
+    "sch_kind": "02",
+    "sch_date": "20210315",
+    "start_hhmm": "0630",
+    "end_hhmm": "0730",
+    "neis": null
+  },
+  {
+    "sch_name": "청소",
+    "sch_kind": "04",
+    "sch_date": "20210315",
+    "start_hhmm": "0800",
+    "end_hhmm": "0900",
+    "neis": null
+  },
+  {
+    "sch_name": "요가",
+    "sch_kind": "03",
+    "sch_date": "20210315",
+    "start_hhmm": "0900",
+    "end_hhmm": "1000",
+    "neis": null
+  },
+  {
+    "sch_name": "점심식사",
+    "sch_kind": "02",
+    "sch_date": "20210315",
+    "start_hhmm": "1100",
+    "end_hhmm": "1200",
+    "neis": null
+  },
+  {
+    "sch_name": "입시정보 체크",
+    "sch_kind": "01",
+    "sch_date": "20210315",
+    "start_hhmm": "1300",
+    "end_hhmm": "1400",
+    "neis": null
+  },
+  {
+    "sch_name": "장보기",
+    "sch_kind": "03",
+    "sch_date": "20210315",
+    "start_hhmm": "1400",
+    "end_hhmm": "1600",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210315",
+    "start_hhmm": "1800",
+    "end_hhmm": "1900",
+    "neis": null
+  },
+  {
+    "sch_name": "저녁식사",
+    "sch_kind": "02",
+    "sch_date": "20210315",
+    "start_hhmm": "1900",
+    "end_hhmm": "2000",
+    "neis": null
+  },
+  {
+    "sch_name": "간식준비",
+    "sch_kind": "04",
+    "sch_date": "20210315",
+    "start_hhmm": "2100",
+    "end_hhmm": "2200",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210316",
+    "start_hhmm": "0600",
+    "end_hhmm": "0630",
+    "neis": null
+  },
+  {
+    "sch_name": "식사      등교준비",
+    "sch_kind": "02",
+    "sch_date": "20210316",
+    "start_hhmm": "0630",
+    "end_hhmm": "0730",
+    "neis": null
+  },
+  {
+    "sch_name": "빨래",
+    "sch_kind": "04",
+    "sch_date": "20210316",
+    "start_hhmm": "0800",
+    "end_hhmm": "0900",
+    "neis": null
+  },
+  {
+    "sch_name": "필라테스",
+    "sch_kind": "03",
+    "sch_date": "20210316",
+    "start_hhmm": "0900",
+    "end_hhmm": "1000",
+    "neis": null
+  },
+  {
+    "sch_name": "점심식사",
+    "sch_kind": "02",
+    "sch_date": "20210316",
+    "start_hhmm": "1100",
+    "end_hhmm": "1200",
+    "neis": null
+  },
+  {
+    "sch_name": "가사노동",
+    "sch_kind": "04",
+    "sch_date": "20210316",
+    "start_hhmm": "1400",
+    "end_hhmm": "1600",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210316",
+    "start_hhmm": "1800",
+    "end_hhmm": "1900",
+    "neis": null
+  },
+  {
+    "sch_name": "저녁식사",
+    "sch_kind": "02",
+    "sch_date": "20210316",
+    "start_hhmm": "1900",
+    "end_hhmm": "2000",
+    "neis": null
+  },
+  {
+    "sch_name": "간식준비",
+    "sch_kind": "04",
+    "sch_date": "20210316",
+    "start_hhmm": "2100",
+    "end_hhmm": "2200",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210317",
+    "start_hhmm": "0600",
+    "end_hhmm": "0630",
+    "neis": null
+  },
+  {
+    "sch_name": "식사      등교준비",
+    "sch_kind": "02",
+    "sch_date": "20210317",
+    "start_hhmm": "0630",
+    "end_hhmm": "0730",
+    "neis": null
+  },
+  {
+    "sch_name": "청소",
+    "sch_kind": "04",
+    "sch_date": "20210317",
+    "start_hhmm": "0800",
+    "end_hhmm": "0900",
+    "neis": null
+  },
+  {
+    "sch_name": "요가",
+    "sch_kind": "03",
+    "sch_date": "20210317",
+    "start_hhmm": "0900",
+    "end_hhmm": "1000",
+    "neis": null
+  },
+  {
+    "sch_name": "점심식사",
+    "sch_kind": "02",
+    "sch_date": "20210317",
+    "start_hhmm": "1100",
+    "end_hhmm": "1200",
+    "neis": null
+  },
+  {
+    "sch_name": "입시정보 체크",
+    "sch_kind": "01",
+    "sch_date": "20210317",
+    "start_hhmm": "1300",
+    "end_hhmm": "1400",
+    "neis": null
+  },
+  {
+    "sch_name": "장보기",
+    "sch_kind": "03",
+    "sch_date": "20210317",
+    "start_hhmm": "1400",
+    "end_hhmm": "1600",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210317",
+    "start_hhmm": "1800",
+    "end_hhmm": "1900",
+    "neis": null
+  },
+  {
+    "sch_name": "저녁식사",
+    "sch_kind": "02",
+    "sch_date": "20210317",
+    "start_hhmm": "1900",
+    "end_hhmm": "2000",
+    "neis": null
+  },
+  {
+    "sch_name": "간식준비",
+    "sch_kind": "04",
+    "sch_date": "20210317",
+    "start_hhmm": "2100",
+    "end_hhmm": "2200",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210318",
+    "start_hhmm": "0600",
+    "end_hhmm": "0630",
+    "neis": null
+  },
+  {
+    "sch_name": "식사      등교준비",
+    "sch_kind": "02",
+    "sch_date": "20210318",
+    "start_hhmm": "0630",
+    "end_hhmm": "0730",
+    "neis": null
+  },
+  {
+    "sch_name": "빨래",
+    "sch_kind": "04",
+    "sch_date": "20210318",
+    "start_hhmm": "0800",
+    "end_hhmm": "0900",
+    "neis": null
+  },
+  {
+    "sch_name": "필라테스",
+    "sch_kind": "03",
+    "sch_date": "20210318",
+    "start_hhmm": "0900",
+    "end_hhmm": "1000",
+    "neis": null
+  },
+  {
+    "sch_name": "점심식사",
+    "sch_kind": "02",
+    "sch_date": "20210318",
+    "start_hhmm": "1100",
+    "end_hhmm": "1200",
+    "neis": null
+  },
+  {
+    "sch_name": "가사노동",
+    "sch_kind": "04",
+    "sch_date": "20210318",
+    "start_hhmm": "1400",
+    "end_hhmm": "1600",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210318",
+    "start_hhmm": "1800",
+    "end_hhmm": "1900",
+    "neis": null
+  },
+  {
+    "sch_name": "저녁식사",
+    "sch_kind": "02",
+    "sch_date": "20210318",
+    "start_hhmm": "1900",
+    "end_hhmm": "2000",
+    "neis": null
+  },
+  {
+    "sch_name": "간식준비",
+    "sch_kind": "04",
+    "sch_date": "20210318",
+    "start_hhmm": "2100",
+    "end_hhmm": "2200",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210319",
+    "start_hhmm": "0600",
+    "end_hhmm": "0630",
+    "neis": null
+  },
+  {
+    "sch_name": "식사      등교준비",
+    "sch_kind": "02",
+    "sch_date": "20210319",
+    "start_hhmm": "0630",
+    "end_hhmm": "0730",
+    "neis": null
+  },
+  {
+    "sch_name": "청소",
+    "sch_kind": "04",
+    "sch_date": "20210319",
+    "start_hhmm": "0800",
+    "end_hhmm": "0900",
+    "neis": null
+  },
+  {
+    "sch_name": "요가",
+    "sch_kind": "03",
+    "sch_date": "20210319",
+    "start_hhmm": "0900",
+    "end_hhmm": "1000",
+    "neis": null
+  },
+  {
+    "sch_name": "점심식사",
+    "sch_kind": "02",
+    "sch_date": "20210319",
+    "start_hhmm": "1100",
+    "end_hhmm": "1200",
+    "neis": null
+  },
+  {
+    "sch_name": "입시정보 체크",
+    "sch_kind": "01",
+    "sch_date": "20210319",
+    "start_hhmm": "1300",
+    "end_hhmm": "1400",
+    "neis": null
+  },
+  {
+    "sch_name": "장보기",
+    "sch_kind": "03",
+    "sch_date": "20210319",
+    "start_hhmm": "1400",
+    "end_hhmm": "1600",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210319",
+    "start_hhmm": "1800",
+    "end_hhmm": "1900",
+    "neis": null
+  },
+  {
+    "sch_name": "저녁식사",
+    "sch_kind": "02",
+    "sch_date": "20210319",
+    "start_hhmm": "1900",
+    "end_hhmm": "2000",
+    "neis": null
+  },
+  {
+    "sch_name": "간식준비",
+    "sch_kind": "04",
+    "sch_date": "20210319",
+    "start_hhmm": "2100",
+    "end_hhmm": "2200",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210320",
+    "start_hhmm": "0800",
+    "end_hhmm": "0900",
+    "neis": null
+  },
+  {
+    "sch_name": "아침식사",
+    "sch_kind": "02",
+    "sch_date": "20210320",
+    "start_hhmm": "0900",
+    "end_hhmm": "1000",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210320",
+    "start_hhmm": "1030",
+    "end_hhmm": "1130",
+    "neis": null
+  },
+  {
+    "sch_name": "점심식사",
+    "sch_kind": "02",
+    "sch_date": "20210320",
+    "start_hhmm": "1210",
+    "end_hhmm": "1310",
+    "neis": null
+  },
+  {
+    "sch_name": "가사노동",
+    "sch_kind": "04",
+    "sch_date": "20210320",
+    "start_hhmm": "1400",
+    "end_hhmm": "1600",
+    "neis": null
+  },
+  {
+    "sch_name": "식사준비",
+    "sch_kind": "04",
+    "sch_date": "20210320",
+    "start_hhmm": "1800",
+    "end_hhmm": "1900",
+    "neis": null
+  },
+  {
+    "sch_name": "저녁식사",
+    "sch_kind": "02",
+    "sch_date": "20210320",
+    "start_hhmm": "1900",
+    "end_hhmm": "2000",
+    "neis": null
+  },
+  {
+    "sch_name": "간식준비",
+    "sch_kind": "04",
+    "sch_date": "20210320",
+    "start_hhmm": "2100",
+    "end_hhmm": "2200",
+    "neis": null
+  }
+]

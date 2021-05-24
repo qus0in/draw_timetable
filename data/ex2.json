@@ -1,0 +1,202 @@
+[
+  {
+    "sch_name": "간식시간",
+    "sch_kind": "04",
+    "sch_date": "20210524",
+    "start_hhmm": "1030",
+    "end_hhmm": "1100",
+    "neis": null
+  },
+  {
+    "sch_name": "바깥놀이",
+    "sch_kind": "03",
+    "sch_date": "20210524",
+    "start_hhmm": "1110",
+    "end_hhmm": "1150",
+    "neis": null
+  },
+  {
+    "sch_name": "점심시간",
+    "sch_kind": "04",
+    "sch_date": "20210524",
+    "start_hhmm": "1200",
+    "end_hhmm": "1300",
+    "neis": null
+  },
+  {
+    "sch_name": "산책시간",
+    "sch_kind": "03",
+    "sch_date": "20210524",
+    "start_hhmm": "1300",
+    "end_hhmm": "1330",
+    "neis": null
+  },
+  {
+    "sch_name": "하원",
+    "sch_kind": "02",
+    "sch_date": "20210524",
+    "start_hhmm": "1330",
+    "end_hhmm": "1430",
+    "neis": null
+  },
+  {
+    "sch_name": "간식시간",
+    "sch_kind": "04",
+    "sch_date": "20210525",
+    "start_hhmm": "1030",
+    "end_hhmm": "1100",
+    "neis": null
+  },
+  {
+    "sch_name": "바깥놀이",
+    "sch_kind": "03",
+    "sch_date": "20210525",
+    "start_hhmm": "1110",
+    "end_hhmm": "1150",
+    "neis": null
+  },
+  {
+    "sch_name": "점심시간",
+    "sch_kind": "04",
+    "sch_date": "20210525",
+    "start_hhmm": "1200",
+    "end_hhmm": "1300",
+    "neis": null
+  },
+  {
+    "sch_name": "산책시간",
+    "sch_kind": "03",
+    "sch_date": "20210525",
+    "start_hhmm": "1300",
+    "end_hhmm": "1330",
+    "neis": null
+  },
+  {
+    "sch_name": "하원",
+    "sch_kind": "02",
+    "sch_date": "20210525",
+    "start_hhmm": "1330",
+    "end_hhmm": "1430",
+    "neis": null
+  },
+  {
+    "sch_name": "간식시간",
+    "sch_kind": "04",
+    "sch_date": "20210526",
+    "start_hhmm": "1030",
+    "end_hhmm": "1100",
+    "neis": null
+  },
+  {
+    "sch_name": "바깥놀이",
+    "sch_kind": "03",
+    "sch_date": "20210526",
+    "start_hhmm": "1110",
+    "end_hhmm": "1150",
+    "neis": null
+  },
+  {
+    "sch_name": "점심시간",
+    "sch_kind": "04",
+    "sch_date": "20210526",
+    "start_hhmm": "1200",
+    "end_hhmm": "1300",
+    "neis": null
+  },
+  {
+    "sch_name": "산책시간",
+    "sch_kind": "03",
+    "sch_date": "20210526",
+    "start_hhmm": "1300",
+    "end_hhmm": "1330",
+    "neis": null
+  },
+  {
+    "sch_name": "하원",
+    "sch_kind": "02",
+    "sch_date": "20210526",
+    "start_hhmm": "1330",
+    "end_hhmm": "1430",
+    "neis": null
+  },
+  {
+    "sch_name": "간식시간",
+    "sch_kind": "04",
+    "sch_date": "20210527",
+    "start_hhmm": "1030",
+    "end_hhmm": "1100",
+    "neis": null
+  },
+  {
+    "sch_name": "바깥놀이",
+    "sch_kind": "03",
+    "sch_date": "20210527",
+    "start_hhmm": "1110",
+    "end_hhmm": "1150",
+    "neis": null
+  },
+  {
+    "sch_name": "점심시간",
+    "sch_kind": "04",
+    "sch_date": "20210527",
+    "start_hhmm": "1200",
+    "end_hhmm": "1300",
+    "neis": null
+  },
+  {
+    "sch_name": "산책시간",
+    "sch_kind": "03",
+    "sch_date": "20210527",
+    "start_hhmm": "1300",
+    "end_hhmm": "1330",
+    "neis": null
+  },
+  {
+    "sch_name": "하원",
+    "sch_kind": "02",
+    "sch_date": "20210527",
+    "start_hhmm": "1330",
+    "end_hhmm": "1430",
+    "neis": null
+  },
+  {
+    "sch_name": "간식시간",
+    "sch_kind": "04",
+    "sch_date": "20210528",
+    "start_hhmm": "1030",
+    "end_hhmm": "1100",
+    "neis": null
+  },
+  {
+    "sch_name": "바깥놀이",
+    "sch_kind": "03",
+    "sch_date": "20210528",
+    "start_hhmm": "1110",
+    "end_hhmm": "1150",
+    "neis": null
+  },
+  {
+    "sch_name": "점심시간",
+    "sch_kind": "04",
+    "sch_date": "20210528",
+    "start_hhmm": "1200",
+    "end_hhmm": "1300",
+    "neis": null
+  },
+  {
+    "sch_name": "산책시간",
+    "sch_kind": "03",
+    "sch_date": "20210528",
+    "start_hhmm": "1300",
+    "end_hhmm": "1330",
+    "neis": null
+  },
+  {
+    "sch_name": "하원",
+    "sch_kind": "02",
+    "sch_date": "20210528",
+    "start_hhmm": "1330",
+    "end_hhmm": "1430",
+    "neis": null
+  }
+]
