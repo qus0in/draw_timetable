@@ -70,7 +70,7 @@ async function drawImage ({output, data, minTime, maxTime}) {
         }
     }
     // 저장
-    await PImage.encodePNGToStream(img, fs.createWriteStream(`${output}.png`)).then(() => {
+    await PImage.encodePNGToStream(img, fs.createWriteStream(`output/${output}.png`)).then(() => {
         console.log(`${output}.png 파일이 정상적으로 생성되었습니다`);
     }).catch((e)=>{
         console.log("png 파일 생성에 실패했습니다.");
